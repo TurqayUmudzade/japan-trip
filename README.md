@@ -2,23 +2,23 @@
 
 ## Overview Table
 
-| Day & Date      | Base City/Area  | Day Trip or Overnight?          | Main Activities                                                                                          |
-|-----------------|-----------------|---------------------------------|----------------------------------------------------------------------------------------------------------|
-| Day 0 (Mar 3)   | Tokyo           | Arrival (Overnight in Tokyo)    | [Arrive HND](#day-0-mar-3--tokyo), check-in, late-night ramen                                             |
+| Day & Date      | Base City/Area  | Day Trip or Overnight?          | Main Activities                                                                                             |
+|-----------------|-----------------|---------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Day 0 (Mar 3)   | Tokyo           | Arrival (Overnight in Tokyo)    | [Arrive HND](#day-0-mar-3--tokyo), check-in, late-night ramen                                                |
 | Day 1 (Mar 4)   | Tokyo           | Main City                       | [Asakusa (Senso-ji)](#day-1-mar-4--tokyo), [Akihabara](#day-1-mar-4--tokyo), [Shiba Café](#day-1-mar-4--tokyo), [Yushima Tenjin](#day-1-mar-4--tokyo) |
 | Day 2 (Mar 5)   | Tokyo           | Main City                       | [Shinjuku](#day-2-mar-5--tokyo), [Shibuya Sky](#day-2-mar-5--tokyo), [Shibuya Crossing & 109](#day-2-mar-5--tokyo), [Tsukiji Outer Market](#day-2-mar-5--tokyo) |
 | Day 3 (Mar 6)   | Tokyo           | Day Trip (Kamakura)             | [Kamakura: Great Buddha](#day-3-mar-6--kamakura-day-trip), [Hasedera Temple](#day-3-mar-6--kamakura-day-trip), [Komachi-dori Street](#day-3-mar-6--kamakura-day-trip) |
-| Day 4 (Mar 7)   | Tokyo           | Day Trip (Nagano)               | [Snow Monkeys at Jigokudani](#day-4-mar-7--nagano-day-trip), [Zenko-ji Temple](#day-4-mar-7--nagano-day-trip) |
+| Day 4 (Mar 7)   | Tokyo           | Main City                       | [Gotokuji Temple](#day-4-mar-7--tokyo), [Don Quijote Shopping](#day-4-mar-7--tokyo) |
 | Day 5 (Mar 8)   | Tokyo → Hakone  | Overnight (Ryokan)              | [Evening Transfer to Hakone](#day-5-mar-8--tokyo-→-hakone), [Onsen & Ryokan Stay](#day-5-mar-8--tokyo-→-hakone) |
-| Day 6 (Mar 9)   | Hakone → Kyoto  | Travel to Kyoto in the Evening  | [Hakone Open-Air Museum](#day-6-mar-9--hakone-→-kyoto), [Hakone Shrine](#day-6-mar-9--hakone-→-kyoto)                          |
+| Day 6 (Mar 9)   | Hakone → Kyoto  | Travel to Kyoto in the Evening  | [Hakone Open-Air Museum](#day-6-mar-9--hakone-→-kyoto), [Hakone Shrine](#day-6-mar-9--hakone-→-kyoto)                   |
 | Day 7 (Mar 10)  | Kyoto           | Main City                       | [Kiyomizu-dera](#day-7-mar-10--kyoto), [Kimono Rental](#day-7-mar-10--kyoto), [Kennin-ji](#day-7-mar-10--kyoto), [Kodaiji Temple](#day-7-mar-10--kyoto) |
 | Day 8 (Mar 11)  | Kyoto           | Day Trip (Nara)                 | [Fushimi Inari](#day-8-mar-11--nara-day-trip), [Nara (Todai-ji, Nara Park)](#day-8-mar-11--nara-day-trip), [Nishiki Market](#day-8-mar-11--nara-day-trip) |
 | Day 9 (Mar 12)  | Kyoto           | Main City                       | [Arashiyama Bamboo Grove](#day-9-mar-12--kyoto), [Hozugawa Boat Ride](#day-9-mar-12--kyoto), [Kifune Shrine](#day-9-mar-12--kyoto) |
 | Day 10 (Mar 13) | Osaka           | Day Trip (Kobe)                 | [Dotonbori](#day-10-mar-13--osaka-kobe-day-trip), [Nambayasaka Shrine](#day-10-mar-13--osaka-kobe-day-trip), [Kobe (Kobe beef)](#day-10-mar-13--osaka-kobe-day-trip) |
 | Day 11 (Mar 14) | Kawaguchiko     | Overnight (Ryokan)              | [Travel from Osaka to Kawaguchiko](#day-11-mar-14--kawaguchiko), [Ryokan Stay](#day-11-mar-14--kawaguchiko), [Rent Bikes](#day-11-mar-14--kawaguchiko), [Mt. Fuji Views](#day-11-mar-14--kawaguchiko) |
 | Day 12 (Mar 15) | Kawaguchiko     | Main Area                       | [Chureito Pagoda](#day-12-mar-15--kawaguchiko), [Shimoyoshida Honcho Street](#day-12-mar-15--kawaguchiko) |
-| Day 13 (Mar 16) | Tokyo           | Main City                       | [TeamLab Planets](#day-13-mar-16--tokyo), [Odaiba](#day-13-mar-16--tokyo), [Harajuku/Ginza Shopping](#day-13-mar-16--tokyo) |
-| Day 14 (Mar 17) | Tokyo           | Departure Day (NRT at 19:30)    | [Relax](#day-14-mar-17--tokyo), last-minute shopping, head to NRT                                        |
+| Day 13 (Mar 16) | Tokyo           | Day Trip (Nagano)               | [Snow Monkeys at Jigokudani](#day-13-mar-16--nagano-day-trip), [Zenko-ji Temple](#day-13-mar-16--nagano-day-trip) |
+| Day 14 (Mar 17) | Tokyo           | Departure Day (NRT at 19:30)    | [TeamLab Planets](#day-14-mar-17--tokyo), [Odaiba](#day-14-mar-17--tokyo), [Harajuku/Ginza Shopping](#day-14-mar-17--tokyo), [Relax](#day-14-mar-17--tokyo), head to NRT |
 
 ---
 
@@ -49,15 +49,14 @@
   - **Komachi-dori Street**: Local snacks, souvenirs, cafes.
 - **Optional**: Enoshima Island if time allows.
 
-### Day 4 (Mar 7) – Nagano (Day Trip)
-- **Travel to Nagano**: Early morning Shinkansen from Tokyo.
-- **Jigokudani Snow Monkey Park**: Observe wild monkeys bathing in hot springs.
-- **Zenko-ji Temple**: Historic Buddhist temple; tranquil grounds.
-- **Return to Tokyo**: Evening return by train.
+### Day 4 (Mar 7) – Tokyo
+- **Gotokuji Temple**: Famous for maneki-neko (lucky cat) figurines.
+- **Don Quijote Shopping**: Stock up on souvenirs, snacks, and gifts.
+- **Free Time**: Explore another Tokyo neighborhood or relax.
 
 ### Day 5 (Mar 8) – Tokyo → Hakone
-- **Morning in Tokyo**: Leisurely breakfast, shopping or a quick temple/shrine visit if desired.
-- **Afternoon Transfer to Hakone**: Use Hakone Free Pass for transportation.
+- **Morning in Tokyo**: Leisurely breakfast, maybe a short visit to a local shrine.
+- **Afternoon Transfer to Hakone**: Use the Hakone Free Pass.
 - **Ryokan Check-In & Onsen**: Relax in hot springs, enjoy a traditional kaiseki dinner.
 
 ### Day 6 (Mar 9) – Hakone → Kyoto
@@ -99,13 +98,15 @@
 - **Shimoyoshida Honcho Street**: Quaint streets, local charm.
 - **Relax with Mountain Views**: Enjoy cafes or a slow stroll.
 
-### Day 13 (Mar 16) – Tokyo
+### Day 13 (Mar 16) – Nagano (Day Trip)
+- **Travel to Nagano**: Early morning Shinkansen from Tokyo.
+- **Jigokudani Snow Monkey Park**: Observe wild monkeys bathing in hot springs.
+- **Zenko-ji Temple**: Historic Buddhist temple; tranquil grounds.
+- **Return to Tokyo**: Evening return by train.
+
+### Day 14 (Mar 17) – Tokyo (Departure)
 - **TeamLab Planets**: Immersive digital art experience (book tickets in advance).
 - **Odaiba**: Waterfront shopping, Rainbow Bridge views, futuristic attractions.
 - **Harajuku/Ginza Shopping**: Trendy fashion, stationery, and luxury brands.
-
-### Day 14 (Mar 17) – Tokyo (Departure)
-- **Relax & Last-Minute Shopping**: Pick up final souvenirs.
+- **Relax**: Final souvenir shopping or a last bowl of ramen.
 - **Head to Narita Airport (NRT)**: Depart at 19:30.
-
----
