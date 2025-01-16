@@ -15,7 +15,7 @@
 | **Day 8 (Mar 11)**  | Kyoto           | Main City                       | —                                                   | **[Arashiyama Bamboo Grove](#day-8-mar-11--kyoto)**, [Hozugawa Boat Ride](#day-8-mar-11--kyoto), [Kifune Shrine](#day-8-mar-11--kyoto)                          |
 | **Day 9 (Mar 12)**  | Osaka           | Day Trip (Kobe)                 | Kyoto → Osaka                                       | **[Dotonbori](#day-9-mar-12--osaka-kobe-day-trip)**, [Nambayasaka Shrine](#day-9-mar-12--osaka-kobe-day-trip), [Kobe (Kobe beef)](#day-9-mar-12--osaka-kobe-day-trip) |
 | **Day 10 (Mar 13)** | Osaka           | Main City                       | —                                                   | **Extra day in Osaka** (free time, possible Universal Studios, food tour, shopping, etc.)                                                                       |
-| **Day 11 (Mar 14)** | Kawaguchiko     | Overnight (Ryokan)              | Osaka → Kawaguchiko                                 | **[Ryokan Stay](#day-11-mar-14--kawaguchiko)**, [Rent Bikes](#day-11-mar-14--kawaguchiko), [Mt. Fuji Views](#day-11-mar-14--kawaguchiko)                        |
+| **Day 11 (Mar 14)** | Kawaguchiko     | Overnight               | Osaka → Kawaguchiko                                         | Lake, [Rent Bikes](#day-11-mar-14--kawaguchiko), [Mt. Fuji Views](#day-11-mar-14--kawaguchiko)                        |
 | **Day 12 (Mar 15)** | Tokyo           | Main City                       | Kawaguchiko → Tokyo                                 | **[TeamLab Planets](#day-12-mar-15--tokyo)**, [Odaiba](#day-12-mar-15--tokyo), [Harajuku/Ginza Shopping](#day-12-mar-15--tokyo)                                |
 | **Day 13 (Mar 16)** | Tokyo           | Day Trip (Nagano)               | Tokyo ⇄ Nagano (Round-trip)                         | **[Snow Monkeys at Jigokudani](#day-13-mar-16--nagano-day-trip)**, [Zenko-ji Temple](#day-13-mar-16--nagano-day-trip)                                          |
 | **Day 14 (Mar 17)** | Tokyo           | Departure Day (NRT 19:30)       | —                                                   | **[Relax](#day-14-mar-17--tokyo)**, last-minute shopping, head to NRT                                                                                           |
@@ -93,7 +93,6 @@
 - **Travel**: Osaka → Kawaguchiko (Shinkansen + local train/bus).
 - **Ryokan Check-In**: Onsen with Mt. Fuji views.
 - **Rent Bikes** (time permitting) to explore Lake Kawaguchi’s shores.
-- **Evening**: Relax in onsen, enjoy a kaiseki dinner.
 
 ### Day 12 (Mar 15) – Tokyo
 - **Travel**: Kawaguchiko → Tokyo.
